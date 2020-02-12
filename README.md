@@ -23,4 +23,4 @@ chown 991:991 data
 docker-compose up -d
 ```
 
-At this point you have a insecure (no accounts, no password) ELK _with HTTPS_. To add accounts, follow the instructions from https://hkubota.wordpress.com/2020/02/11/elk-with-https/
+At this point you have an insecure (no accounts, no password) ELK _with HTTPS_. To add accounts, follow the instructions from https://hkubota.wordpress.com/2020/02/11/elk-with-https/
